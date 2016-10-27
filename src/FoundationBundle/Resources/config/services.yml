@@ -1,0 +1,4 @@
+services:
+#    foundation.example:
+#        class: FoundationBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

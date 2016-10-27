@@ -1,0 +1,3 @@
+foundation_homepage:
+    path:     /
+    defaults: { _controller: FoundationBundle:Default:index }
