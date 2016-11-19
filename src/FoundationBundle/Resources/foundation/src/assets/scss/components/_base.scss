@@ -4,4 +4,9 @@ body {
   .main {
     background: $white;
   }
+
+  .app-img {
+    width: rem-calc(100);
+    height: rem-calc(100);
+  }
 }
